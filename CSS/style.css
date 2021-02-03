@@ -1,0 +1,32 @@
+
+.row {
+ margin: 100px 0 0 0;
+}
+
+.button {
+  
+}
+
+.btn {
+  text-align: center;
+  padding: 9px 70px 9px 70px;
+  font-weight: bold;
+  display: inline-block;
+  background-color: white;
+  margin: 0 0 15px 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.img {
+  filter: blur(10px);
+}
+
+p {
+  font-weight: bold;
+  font-size: 15px;
+}
